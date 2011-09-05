@@ -81,4 +81,4 @@ hi Pmenu                guibg=#babdb6 guifg=#555753
 hi StatusLine           guifg=#666666 guibg=#eaeaea
 hi Visual               guifg=NONE    guibg=#ffffcc
 hi NonText              guifg=#dddddd guibg=NONE
-hi SpecialKey           guifg=#888888 guibg=NONE
+hi SpecialKey           guifg=#cccccc guibg=NONE
