@@ -82,3 +82,5 @@ hi StatusLine           guifg=#666666 guibg=#eaeaea
 hi Visual               guifg=NONE    guibg=#ffffcc
 hi NonText              guifg=#dddddd guibg=NONE
 hi SpecialKey           guifg=#cccccc guibg=NONE
+
+hi ColorColumn          guifg=NONE guibg=#eeeeee
