@@ -76,7 +76,7 @@ hi ErrorMsg             guifg=#a61717 guibg=#e3d2d2 gui=bold
 hi VertSplit            guifg=#666666 guibg=#eaeaea
 hi LineNr               guifg=#bbbbbb guibg=NONE
 hi ModeMsg              gui=bold
-hi Normal               guifg=#000000 guibg=#f7f7fe
+hi Normal               guifg=#000000 guibg=#f9f9f9
 hi Pmenu                guibg=#babdb6 guifg=#555753
 hi StatusLine           guifg=#666666 guibg=#eaeaea
 hi Visual               guifg=NONE    guibg=#ffffcc
