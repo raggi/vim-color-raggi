@@ -84,3 +84,4 @@ hi NonText              guifg=#dddddd guibg=NONE
 hi SpecialKey           guifg=#cccccc guibg=NONE
 
 hi ColorColumn          guifg=NONE guibg=#eeeeee
+hi CursorLine           guifg=NONE guibg=#eeeeee
