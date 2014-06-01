@@ -33,13 +33,13 @@ hi vimFunction            term=NONE            cterm=NONE             ctermbg=bg
 hi vimSynRegion           term=NONE            cterm=NONE             ctermbg=bg            ctermfg=fg
 hi vimSynPatMod           term=NONE            cterm=NONE             ctermbg=bg            ctermfg=fg
 hi PreProc                term=underline       cterm=bold             ctermbg=bg            ctermfg=38
-hi Type                   term=underline       cterm=bold             ctermbg=bg            ctermfg=67
+hi Type                   term=underline       cterm=bold             ctermbg=bg            ctermfg=17
 hi Underlined             term=underline       cterm=underline        ctermbg=bg            ctermfg=104
 hi Ignore                 term=NONE            cterm=NONE             ctermbg=bg            ctermfg=231
 hi Error                  term=reverse         cterm=NONE             ctermbg=188           ctermfg=124
 hi Todo                   term=NONE            cterm=NONE             ctermbg=226           ctermfg=145
-hi String                 term=NONE            cterm=NONE             ctermbg=bg            ctermfg=161
-hi Character              term=NONE            cterm=NONE             ctermbg=bg            ctermfg=161
+hi String                 term=NONE            cterm=NONE             ctermbg=bg            ctermfg=52
+hi Character              term=NONE            cterm=NONE             ctermbg=bg            ctermfg=52
 hi Number                 term=NONE            cterm=NONE             ctermbg=bg            ctermfg=37
 hi Boolean                term=NONE            cterm=bold             ctermbg=bg            ctermfg=fg
 hi Include                term=NONE            cterm=bold             ctermbg=bg            ctermfg=38
@@ -99,7 +99,7 @@ hi Question               term=NONE            cterm=bold             ctermbg=bg
 hi StatusLine             term=bold,reverse    cterm=bold,reverse     ctermbg=102           ctermfg=255
 hi StatusLineNC           term=reverse         cterm=reverse          ctermbg=bg            ctermfg=fg
 hi VertSplit              term=reverse         cterm=reverse          ctermbg=102           ctermfg=255
-hi Title                  term=bold            cterm=bold             ctermbg=bg            ctermfg=201
+hi Title                  term=bold            cterm=bold             ctermbg=bg            ctermfg=fg
 hi Visual                 term=reverse         cterm=NONE             ctermbg=230           ctermfg=fg
 hi VisualNOS              term=bold,underline  cterm=bold,underline   ctermbg=bg            ctermfg=fg
 hi WarningMsg             term=NONE            cterm=NONE             ctermbg=bg            ctermfg=196
@@ -132,7 +132,7 @@ hi lCursor                term=NONE            cterm=NONE             ctermbg=16
 hi MatchParen             term=reverse         cterm=NONE             ctermbg=51            ctermfg=fg
 hi Comment                term=bold            cterm=NONE             ctermbg=bg            ctermfg=145
 hi Constant               term=underline       cterm=bold             ctermbg=bg            ctermfg=37
-hi Special                term=bold            cterm=NONE             ctermbg=bg            ctermfg=161
+hi Special                term=bold            cterm=NONE             ctermbg=bg            ctermfg=52
 hi Identifier             term=underline       cterm=NONE             ctermbg=bg            ctermfg=37
 hi Statement              term=bold            cterm=bold             ctermbg=bg            ctermfg=16
 hi vimCommentTitleLeader  term=NONE            cterm=NONE             ctermbg=bg            ctermfg=fg
