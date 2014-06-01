@@ -164,3 +164,4 @@ hi vimSubstRep            term=NONE            cterm=NONE             ctermbg=bg
 hi vimSyncMatch           term=NONE            cterm=NONE             ctermbg=bg            ctermfg=fg
 hi vimHiClear             term=NONE            cterm=NONE             ctermbg=bg            ctermfg=fg
 hi vimSynKeyRegion        term=NONE            cterm=NONE             ctermbg=bg            ctermfg=fg
+hi javascript             term=NONE            cterm=NONE             ctermbg=bg            ctermfg=fg
