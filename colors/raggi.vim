@@ -1,11 +1,12 @@
 " Vim color file
 " Maintainer: James Tucker <jftucker@gmail.com>
 " Last Change: Today :-P
-" Version: 0.8
+" Version: 0.9
 " Homepage: http://github.com/raggi/vim-color-raggi
 
 " Started from the github conversion theme, but adjusted for practical
-" authoring. 
+" authoring.  I switch between this and molokai, but primarily use this when in
+" the sun!
 " Additional thanks to Andy Ferra for design and vim tooling assistance
 " The original author of the github theme is:
 " Bruno Michel <bmichel@menfin.info>
