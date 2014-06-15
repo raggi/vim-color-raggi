@@ -57,7 +57,7 @@ hi vimAutoCmdSfxList      term=NONE            cterm=NONE             ctermbg=bg
 hi vimMapRhsExtend        term=NONE            cterm=NONE             ctermbg=bg            ctermfg=fg
 hi vimMenuRhs             term=NONE            cterm=NONE             ctermbg=bg            ctermfg=fg
 hi vimMapRhs              term=NONE            cterm=NONE             ctermbg=bg            ctermfg=fg
-hi SpecialComment         term=NONE            cterm=bold             ctermbg=bg            ctermfg=145
+hi SpecialComment         term=NONE            cterm=bold             ctermbg=bg            ctermfg=242
 hi vimExecute             term=NONE            cterm=NONE             ctermbg=bg            ctermfg=fg
 hi vimIf                  term=NONE            cterm=NONE             ctermbg=bg            ctermfg=fg
 hi vimHiCtermColor        term=NONE            cterm=NONE             ctermbg=bg            ctermfg=fg
@@ -130,7 +130,7 @@ hi ColorColumn            term=reverse         cterm=NONE             ctermbg=25
 hi Cursor                 term=NONE            cterm=NONE             ctermbg=102           ctermfg=231
 hi lCursor                term=NONE            cterm=NONE             ctermbg=16            ctermfg=231
 hi MatchParen             term=reverse         cterm=NONE             ctermbg=51            ctermfg=fg
-hi Comment                term=bold            cterm=NONE             ctermbg=bg            ctermfg=145
+hi Comment                term=bold            cterm=NONE             ctermbg=bg            ctermfg=242
 hi Constant               term=underline       cterm=bold             ctermbg=bg            ctermfg=37
 hi Special                term=bold            cterm=NONE             ctermbg=bg            ctermfg=52
 hi Identifier             term=underline       cterm=NONE             ctermbg=bg            ctermfg=37
