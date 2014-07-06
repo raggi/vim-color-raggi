@@ -74,8 +74,8 @@ hi PmenuThumb             term=NONE            cterm=reverse          ctermbg=bg
 hi TabLine                term=NONE            cterm=NONE             ctermbg=252           ctermfg=fg
 hi TabLineSel             term=bold            cterm=bold             ctermbg=bg            ctermfg=fg
 hi TabLineFill            term=reverse         cterm=reverse          ctermbg=bg            ctermfg=fg
-hi CursorColumn           term=NONE            cterm=NONE             ctermbg=254           ctermfg=fg
-hi CursorLine             term=NONE            cterm=NONE             ctermbg=255           ctermfg=fg
+hi CursorColumn           term=NONE            cterm=NONE             ctermbg=254           ctermfg=none
+hi CursorLine             term=NONE            cterm=NONE             ctermbg=255           ctermfg=none
 hi vimMenuBang            term=NONE            cterm=NONE             ctermbg=bg            ctermfg=fg
 hi Debug                  term=NONE            cterm=NONE             ctermbg=bg            ctermfg=124
 hi vimGroupName           term=NONE            cterm=NONE             ctermbg=bg            ctermfg=fg
