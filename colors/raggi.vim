@@ -20,7 +20,9 @@ endif
 
 let g:colors_name = "raggi"
 
+
 hi Normal                 term=NONE            cterm=NONE             ctermbg=231           ctermfg=16
+hi NonText                cterm=NONE           ctermfg=NONE           ctermbg=NONE          ctermfg=NONE
 hi vimHiKeyList           term=NONE            cterm=NONE             ctermbg=bg            ctermfg=fg
 hi vimSynMatchRegion      term=NONE            cterm=NONE             ctermbg=bg            ctermfg=fg
 hi vimAugroupSyncA        term=NONE            cterm=NONE             ctermbg=bg            ctermfg=fg
@@ -45,7 +47,6 @@ hi Boolean                term=NONE            cterm=bold             ctermbg=bg
 hi Include                term=NONE            cterm=bold             ctermbg=bg            ctermfg=38
 hi Define                 term=NONE            cterm=bold             ctermbg=bg            ctermfg=16
 hi SpecialKey             term=bold            cterm=NONE             ctermbg=bg            ctermfg=188
-hi NonText                term=bold            cterm=bold             ctermbg=bg            ctermfg=253
 hi Directory              term=bold            cterm=NONE             ctermbg=bg            ctermfg=74
 hi ErrorMsg               term=NONE            cterm=bold             ctermbg=188           ctermfg=124
 hi IncSearch              term=reverse         cterm=reverse          ctermbg=bg            ctermfg=fg
