@@ -1,12 +1,14 @@
 " Vim color file
 " Maintainer: James Tucker <jftucker@gmail.com>
 " Last Change: Today :-P
-" Version: 0.9
+" Version: 1.0
 " Homepage: http://github.com/raggi/vim-color-raggi
 
 " Started from the github conversion theme, but adjusted for practical
 " authoring.  I switch between this and molokai, but primarily use this when in
 " the sun!
+" n.b. This is now deliberately very divergent from the original, and also
+" divergent from the github theme, although it still has many similarities.
 " Additional thanks to Andy Ferra for design and vim tooling assistance
 " The original author of the github theme is:
 " Bruno Michel <bmichel@menfin.info>
