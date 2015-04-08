@@ -22,7 +22,7 @@ endif
 
 let g:colors_name = "raggi"
 
-hi Normal                 term=NONE            cterm=NONE             ctermbg=231           ctermfg=16
+hi Normal                 term=NONE            cterm=NONE             ctermbg=NONE           ctermfg=16
 hi NonText                term=NONE            cterm=NONE             ctermbg=NONE          ctermfg=NONE
 hi Boolean                term=NONE            cterm=bold             ctermbg=NONE          ctermfg=NONE
 hi Character              term=NONE            cterm=NONE             ctermbg=NONE          ctermfg=161
@@ -73,36 +73,36 @@ hi Directory              term=bold            cterm=NONE             ctermbg=NO
 hi ErrorMsg               term=NONE            cterm=bold             ctermbg=188           ctermfg=124
 hi FoldColumn             term=NONE            cterm=NONE             ctermbg=250           ctermfg=19
 hi Folded                 term=NONE            cterm=NONE             ctermbg=252           ctermfg=19
-hi IncSearch              term=reverse         cterm=reverse          ctermbg=bg            ctermfg=fg
-hi LineNr                 term=NONE            cterm=NONE             ctermbg=bg            ctermfg=250
+hi IncSearch              term=reverse         cterm=reverse          ctermbg=NONE          ctermfg=fg
+hi LineNr                 term=NONE            cterm=NONE             ctermbg=NONE          ctermfg=250
 hi MatchParen             term=reverse         cterm=NONE             ctermbg=51            ctermfg=fg
-hi ModeMsg                term=bold            cterm=bold             ctermbg=bg            ctermfg=fg
-hi MoreMsg                term=bold            cterm=bold             ctermbg=bg            ctermfg=72
+hi ModeMsg                term=bold            cterm=bold             ctermbg=NONE          ctermfg=fg
+hi MoreMsg                term=bold            cterm=bold             ctermbg=NONE          ctermfg=72
 hi Pmenu                  term=NONE            cterm=NONE             ctermbg=188           ctermfg=102
 hi PmenuSbar              term=NONE            cterm=NONE             ctermbg=250           ctermfg=fg
 hi PmenuSel               term=NONE            cterm=NONE             ctermbg=250           ctermfg=fg
-hi PmenuThumb             term=NONE            cterm=reverse          ctermbg=bg            ctermfg=fg
-hi Question               term=NONE            cterm=bold             ctermbg=bg            ctermfg=72
+hi PmenuThumb             term=NONE            cterm=reverse          ctermbg=NONE          ctermfg=fg
+hi Question               term=NONE            cterm=bold             ctermbg=NONE          ctermfg=72
 hi Search                 term=reverse         cterm=NONE             ctermbg=226           ctermfg=fg
 hi SignColumn             term=NONE            cterm=NONE             ctermbg=250           ctermfg=19
 hi SpecialKey             term=bold            cterm=NONE             ctermbg=NONE          ctermfg=188
-hi SpellBad               term=reverse         cterm=undercurl        ctermbg=bg            ctermfg=196
-hi SpellCap               term=reverse         cterm=undercurl        ctermbg=bg            ctermfg=21
-hi SpellLocal             term=NONE            cterm=undercurl        ctermbg=bg            ctermfg=37
-hi SpellRare              term=reverse         cterm=undercurl        ctermbg=bg            ctermfg=201
+hi SpellBad               term=reverse         cterm=undercurl        ctermbg=NONE          ctermfg=196
+hi SpellCap               term=reverse         cterm=undercurl        ctermbg=NONE          ctermfg=21
+hi SpellLocal             term=NONE            cterm=undercurl        ctermbg=NONE          ctermfg=37
+hi SpellRare              term=reverse         cterm=undercurl        ctermbg=NONE          ctermfg=201
 hi StatusLine             term=bold,reverse    cterm=bold,reverse     ctermbg=102           ctermfg=255
-hi StatusLineNC           term=reverse         cterm=reverse          ctermbg=bg            ctermfg=fg
+hi StatusLineNC           term=reverse         cterm=reverse          ctermbg=NONE          ctermfg=fg
 hi TabLine                term=NONE            cterm=NONE             ctermbg=252           ctermfg=fg
 hi TabLineFill            term=reverse         cterm=reverse          ctermbg=NONE          ctermfg=NONE
 hi TabLineSel             term=bold            cterm=bold             ctermbg=NONE          ctermfg=NONE
 hi Title                  term=bold            cterm=bold             ctermbg=NONE          ctermfg=NONE
 hi VertSplit              term=reverse         cterm=reverse          ctermbg=102           ctermfg=255
 hi Visual                 term=reverse         cterm=NONE             ctermbg=230           ctermfg=fg
-hi VisualNOS              term=bold            cterm=bold             ctermbg=bg            ctermfg=fg
-hi WarningMsg             term=NONE            cterm=NONE             ctermbg=bg            ctermfg=196
+hi VisualNOS              term=bold            cterm=bold             ctermbg=NONE          ctermfg=fg
+hi WarningMsg             term=NONE            cterm=NONE             ctermbg=NONE          ctermfg=196
 hi WildMenu               term=NONE            cterm=NONE             ctermbg=226           ctermfg=16
 hi lCursor                term=NONE            cterm=NONE             ctermbg=16            ctermfg=231
 
-hi javascript             term=NONE            cterm=NONE             ctermbg=bg            ctermfg=fg
+hi javascript             term=NONE            cterm=NONE             ctermbg=NONE          ctermfg=fg
 
-hi RubySymbol             term=NONE            cterm=NONE             ctermbg=bg            ctermfg=90
+hi RubySymbol             term=NONE            cterm=NONE             ctermbg=NONE          ctermfg=90
